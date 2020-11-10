@@ -4,7 +4,7 @@
 
 # 開発環境
 
-使用言語：PHP&Laravel,Vue.js<br/>
+使用言語：HTML&CSS,PHP&Laravel,Vue.js<br/>
 DB:MySQL<br/>
 環境構築：AWSCloud9
 
